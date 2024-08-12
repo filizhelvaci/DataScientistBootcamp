@@ -1,5 +1,5 @@
-# DataScientistBootcamp
-Vahit Keskin Data Scientist Bootcamp Projects 
+# DataScience
+ Data Scientist Projects 
 
 # Projects:
 ## •Recommendation Systems -Hybrid Recommender System
